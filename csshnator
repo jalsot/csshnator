@@ -4,7 +4,7 @@ import sys
 import math
 import subprocess
 import argparse
-from configobj.configobj import ConfigObj
+from configobj import ConfigObj
 from os.path import expanduser
 
 
